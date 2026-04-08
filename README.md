@@ -6,6 +6,10 @@ Branch – ENTC A3
 
 PRN – 25070123054
 
+# ▲ Aim
+To study and perform basic NLP (Natural Language Processing) techniques using Python and NLTK library.
+
+
 # ▲ Introduction
 
 Natural Language Processing (NLP) is a branch of computer science that focuses on the interaction between computers and human language. It enables machines to understand, interpret, and process textual data.
